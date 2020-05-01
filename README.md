@@ -1,6 +1,6 @@
 # Little league Sabermetrics: baseball_simulation
 
-Trying to figure out the best lineup for my kid's little league team which I coach. I'll be the first to admit they are kids and it doesn't really matter. There are unique rules like 5 runs max per inning that make normal front-loading of lineups non-optimal. I was curious on how to setup there lineup so as to maximize the total number of runs.
+Trying to figure out the best lineup for my kid's little league team which I coach. I'll be the first to admit they are kids and it doesn't really matter. There are unique rules like 5 runs max per inning that make normal front-loading of lineups non-optimal. I was curious on how to setup their lineup so as to maximize the total number of runs.
 
 
 ## Terminology and Rules
