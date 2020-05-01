@@ -28,4 +28,4 @@ How can we use this to our advantage? Instead of doing a Montecarlo simulation w
 
 ## Option 1: Genetic Algorithm with Ordered Cross-Over (deap.ipynb)
 
-The lineup can be thought of as a set and this set can be fed through a baseball simulation or the Markove chain to determine median or mean number of runs. The ordered cross-over preserves the set so you don't have batter 1 batting twice. See https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm).
+The lineup can be thought of as a set and this set can be fed through a baseball simulation or the Markov chain to determine median or mean number of runs. The ordered cross-over preserves the set so you don't have batter batting twice. See https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm).
