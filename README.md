@@ -17,6 +17,7 @@ Some of these terms and rules are fairly simplified, e.g. someone could hit a si
  
     
 ## Code Setup
+`conda env create -f requirements.yaml`
 
 There are two Notebooks in this repo and some supporting files. 
 
